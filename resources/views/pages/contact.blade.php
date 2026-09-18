@@ -15,7 +15,7 @@
 
         <div class="mb-3">
           <small class="text-muted d-block">WhatsApp</small>
-          <a href="https://wa.me/6281234567890" target="_blank" class="fw-semibold text-dark">+62 812 3456 7890</a>
+          <a href="https://wa.me/6285143540669" target="_blank" class="fw-semibold text-dark">+62 85143540669</a>
         </div>
         <div class="mb-4">
           <small class="text-muted d-block">Lokasi</small>
@@ -63,7 +63,7 @@
     const subject = document.getElementById('subject').value;
     const pesan = document.getElementById('pesan').value;
 
-    const nomorWhatsapp = '6281234567890'; // ganti dengan nomor WA asli
+    const nomorWhatsapp = '6285143540669'; // ganti dengan nomor WA asli
 
     const teks = `Halo Henri Store, saya ingin menghubungi Anda.%0A%0A` +
                  `Nama: ${nama}%0A` +
